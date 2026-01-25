@@ -1,4 +1,4 @@
-# SQL projecty
+# SQL project
 
 ## 📌 Project Overview
 This project focuses on **advanced sales analytics using SQL**, where transactional sales data is analyzed to understand **performance trends, product behavior, customer activity, and business growth over time**. The project is built on a **fact–dimension (star schema) model** and makes extensive use of **CTEs and window functions** to perform real-world analytical calculations.
